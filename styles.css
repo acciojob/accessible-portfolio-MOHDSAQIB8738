@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+li{
+	float: center;
+}
+
+a{
+	display:block;
+	padding:8px;
+	background-color: #dddddd;
+}
